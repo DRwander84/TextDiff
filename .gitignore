@@ -6,6 +6,8 @@
 /CMakeLists.txt.user*
 /.qtcreator/
 /.qtc_clangd/
+/TextDiff.zip/
+/TextDiff Portable.rar/
 
 # CMake generated files
 CMakeCache.txt
