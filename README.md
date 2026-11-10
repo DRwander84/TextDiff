@@ -22,6 +22,12 @@ Make sure Qt is installed with a compatible MSVC 64-bit kit.
 
 By visiting the [PC Gaming Hub](https://t.me/pcgaminghub) Telegram channel, you can follow the latest gaming and technology news.
 
+## Donation
+
+If you would like to support me, you can send a donation to the following address:
+
+`TMKpNvJ73RR6g2NQ3b18eAHZuXCkbiTUv7`
+
 ## License
 
 TextDiff is released under the **MIT License**.
