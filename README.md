@@ -2,7 +2,7 @@
 
 **TextDiff** is a Windows desktop application designed to compare two files and identify the differences between them character by character.
 
-Simply select two files, and TextDiff analyzes their contents to detect differences, helping you quickly identify which parts of the files have changed.
+A lightweight application designed specifically for programmers, writers, and editors.
 
 ## Requirements
 
@@ -17,6 +17,10 @@ To build and run TextDiff from source code, you need:
 - **CMake:** Version 3.21 or later
 
 Make sure Qt is installed with a compatible MSVC 64-bit kit.
+
+## Recommended Channel
+
+By visiting the [PC Gaming Hub](https://t.me/pcgaminghub) Telegram channel, you can follow the latest gaming and technology news.
 
 ## License
 
